@@ -1,11 +1,15 @@
 ---
-title: How We Live
+title: Éveil Électroacoustique
 date: 2022-01-09 08:01:35 +0300
-subtitle: Letterign
+subtitle: Ateliers
 image: '/images/project-2.jpg'
 ---
 
-In qua quid est boni praeter summam voluptatem, et eam sempiternam? Cur post Tarentum ad Archytam? Qua ex cognitione facilior facta est investigatio rerumano occultissimarum. Negat enim tenuissimo victu, id est contemptissimis escis et sed potionibus, minorem voluptatem. Ego quoque, inquit, didicerim libentius si table quiduse proactive domination.
+Cet atelier/animation offre une expérience immersive et ludique où les enfants peuvent découvrir et explorer différents instruments de musique électronique (synthétiseurs, controlers MIDI, microphone relié à des effets temps réels). 
+
+## Qu'est-ce que la musique électroacoustique ?
+
+La musique électroacoustique est un terme qui désigne les musiques crées à partir de sons enregistrés et de sons synthétisés. Cette fusion crée des paysages sonores innovants et captivants qui stimulent l'imagination et la créativité des enfants.
 
 <div class="gallery-box">
   <div class="gallery">
@@ -16,7 +20,13 @@ In qua quid est boni praeter summam voluptatem, et eam sempiternam? Cur post Tar
   <em>Gallery / <a href="https://unsplash.com/" target="_blank">Unsplash</a></em>
 </div>
 
-Capitalize on low hanging fruit to identify a ballpark value added activity to beta test. Override the digital divide with additional clickthroughs from DevOps. Nanotechnology immersion along the information highway will close the loop on focusing solely on the bottom line. Collaboratively administrate turnkey channels whereas virtual e-tailers. Objectively seize scalable metrics whereas proactive e-services. Seamlessly empower fully researched growth strategies and interoperable internal or “organic” sources.
+
+## Objectifs :
+
+* Éveiller la curiosité musicale : Encourager les enfants à explorer différents types de sons et à développer une sensibilité musicale dès le plus jeune âge.
+* Stimuler la créativité : Permettre aux enfants de créer leurs propres compositions sonores en utilisant des instruments simples et des dispositifs électroniques adaptés.
+* Favoriser l'expression : Offrir un espace où les enfants peuvent exprimer librement leurs émotions et leurs idées à travers la musique.
+
 
 <div class="gallery-box">
   <div class="gallery">
@@ -25,6 +35,17 @@ Capitalize on low hanging fruit to identify a ballpark value added activity to b
   </div>
 </div>
 
-In qua quid est boni praeter summam voluptatem, et eam sempiternam? Cur post Tarentum ad Archytam? Qua ex cognitione facilior facta est investigatio rerumano occultissimarum. Negat enim tenuissimo victu, id est contemptissimis escis et sed potionibus, minorem voluptatem. Ego quoque, inquit, didicerim libentius si quiduse worldwide methodologies.
+## Déroulement :
 
-Completely synergize resource taxing relationships via premier niche markets. Professionally cultivate one-to-one customer service with robust ideas. Dynamically innovate resource-leveling customer service for state of the art customer coordinate.
+1. Accueil et présentation : Nous commençons par une petite introduction où les enfants et leurs parents sont accueillis. Nous présentons brièvement les instruments et les équipements électroniques que nous utiliserons pendant l'atelier.
+2. Découverte des sons : Les enfants explorent différents dispositifs électroniques simples (boîtes à rythmes, petits synthétiseurs). Ils apprennent à reconnaître les sons qu'ils produisent.
+3. Atelier de composition : Les enfants sont encouragés à créer leurs propres morceaux en mélangeant des sons acoustiques captés à l'aide d'un micro et des sons électroniques générés par les synhétiseurs. Ils peuvent expérimenter avec des boucles sonores, des effets et des enregistrements simples.
+4. Moment de détente : Pour finir, nous organisons un moment de relaxation musicale où les enfants peuvent écouter une composition électroacoustique apaisante, permettant de clôturer l'atelier sur une note calme et sereine.
+
+
+## Infos techniques :
+
+* Durée : La durée moyenne est de 2 heures. L'animation peut aussi durer une journée entière sous forme de stand dans le cas d'un lieu/événement ouvert. Un projet sur le long terme peut aussi être mis en place avec plusieurs rendez-vous et une restitution artistique en fin de cycle.
+* Matériel nécessaire sur place : Une prise 220 V. L'animation doit se tenir sous un abris en cas de pluie (barnum, kiosque ...)
+
+
