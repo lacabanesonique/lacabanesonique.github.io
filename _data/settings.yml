@@ -75,21 +75,21 @@ testimonial__description:
 testimonial__items:
   - name: "Paris Habitat"
     image: "/images/parishabitat.png"
-    designation: "Lettering Artist"
-    link: "https://twitter.com/"
-    content : "Keeping your eye on the ball while performing a deep dive on the start-up mentality to derive convergence on cross-platform integration"
+    designation: "Bailleur social"
+    link: "https://www.parishabitat.fr/"
+    content : "Partenaire principal pour les interventions dans les quartiers prioritaires, facilitant l'accès aux ateliers pour les habitants."
 
   - name: "Projets19"
     image: "/images/projet19.jpg"
-    designation: "Designer"
-    link: "https://facebook.com/"
-    content : "Keeping your eye on the ball while performing a deep dive on the start-up mentality to derive convergence on cross-platform integration"
+    designation: "Développement de projet"
+    link: "https://www.projets19.org/"
+    content : "Association locale collaborant sur des initiatives culturelles et éducatives dans le 19e arrondissement."
 
   - name: "Le Cafézoïde"
     image: "/images/cafezoide.png"
-    designation: "Web developer"
-    link: "https://twitter.com/"
-    content : "Keeping your eye on the ball while performing a deep dive on the start-up mentality to derive convergence on cross-platform integration"
+    designation: "Café pour les enfants"
+    link: "https://www.cafezoide.fr/"
+    content : "Lieu emblématique du 19e arrondissement, accueillant régulièrement les ateliers d'éveil musical pour les plus jeunes."
 
 
 #-------------------------------
