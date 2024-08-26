@@ -1,32 +1,42 @@
 ---
 layout: page
-title: About
+title: Qui sommes nous ?
 permalink: /about/
-image: '/images/01-2.jpg'
+image: '/images/eveil0.jpg'
 ---
 
-Leverage agile frameworks to provide a robust Hugo Sousa synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
+La Cabane Sonique est une association créée par Thomas Lucas, développeur, compositeur et designer sonore. Le but de cette association est de favoriser l'accessibilité aux arts sonores et de rendre plus inclusif la pratique des musiques électroniques. L'association se consacre à initier un large public, des enfants aux adultes, aux pratiques innovantes de la musique électronique et à la création sonore.
 
-Collaboratively administrate turnkey channels whereas virtual e-tailers. Objectively seize scalable metrics whereas proactive e-services. Seamlessly empower fully researched growth strategies and interoperable internal or “organic” sources.
+L'association propose divers ateliers originaux, adaptés à différents âges et niveaux, tels que :
+
+* **Éveil électroacoustique dès 3 ans :** Initiation ludique à la musique électronique (sans écrans).
+* **Construction de synthétiseurs avec des légumes :** Apprentissage de la création sonore à partir d'objets du quotidien (sans écrans).
+* **Création de podcasts :** Accompagnement pour la production de podcasts, de la conception au montage.
+* **Sieste sonore immersive :** Séances de relaxation sonore accompagnées de performances de musique électronique.
 
 <div class="gallery-box">
   <div class="gallery">
-    <img src="/images/100.jpg" loading="lazy">
-    <img src="/images/105.jpg" loading="lazy">
-    <img src="/images/103.jpg" loading="lazy">
+    <img src="/images/eveil9.png" loading="lazy">
+    <img src="/images/eveil7.jpg" loading="lazy">
+    <img src="/images/eveil2.png" loading="lazy">
   </div>
-  <em>Gallery / <a href="https://unsplash.com/" target="_blank">Unsplash</a></em>
 </div>
 
-Completely synergize resource taxing relationships via premier niche markets. Cultivate one-to-one customer service with robust ideas. Dynamically innovate resource-leveling customer service for state of the art customer service.
+La Cabane Sonique est soutenue par plusieurs partenaires qui permettent d'étendre ses activités à travers Paris :
 
-> The longer I live, the more I realize that I am never wrong about anything, and that all the pains I have so humbly taken to verify my notions have only wasted my time!
+* **Paris Habitat :** Partenaire principal pour les interventions dans les quartiers prioritaires, facilitant l'accès aux ateliers pour les habitants.
+* **Le Cafézoïde :** Lieu emblématique du 19e arrondissement, accueillant régulièrement les ateliers d'éveil musical pour les plus jeunes.
+* **Projet19 :** Association locale collaborant sur des initiatives culturelles et éducatives dans le 19e arrondissement.
 
-Globally incubate standards compliant channels before scalable benefits. Quickly disseminate superior deliverables whereas web-enabled applications. Quickly drive clicks-and-mortar catalysts for change before vertical architectures.
+L'association intervient aussi lors de grands événements parisiens et festivals, tels que Rock en Seine et Paris Plage, où elle propose des activités sonores accessibles à tous.
+Contact et Informations Pratiques
 
-![Sea]({{site.baseurl}}/images/106.jpg)
-*Photo by [Alyssa Strohmann](https://unsplash.com/photos/2r2RUsEU1Aw) on [Unsplash](https://unsplash.com/)*
+<p align="center">    
+**Adresse :** 18 avenue Mathurin Moreau, 75019 Paris
 
-Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.
+**Numéro de téléphone :** 07 81 04 86 56
 
-Credibly reintermediate backend ideas for cross-platform models. Continually reintermediate integrated processes through technically sound intellectual capital. Holistically foster superior methodologies without market-driven best practices.
+**Mail :** lacabanesonique@gmail.com
+</center>
+
+La Cabane Sonique s'engage à offrir à tous les publics une exploration innovante et accessible de la musique électronique, au cœur des quartiers parisiens et lors de grands événements culturels.

@@ -1,7 +1,7 @@
 #-------------------------------
 # Site Settings
 title: La Cabane Sonique
-logo: '/images/cachet-cabane-petit.png' # You can add own logo. For example '/images/logo.png'.
+logo: '/images/icone-site.png' # You can add own logo. For example '/images/logo.png'.
 description: Bienvenue sur notre site.
 color_scheme: auto # You can choose three modes auto, light, and dark. By default, the auto mode is set, which means the user can choose the light or dark mode themself.
 
@@ -13,27 +13,13 @@ menu__settings:
     - title: 'Acceuil'
       url: '/'
     - title: 'Qui sommes nous ?'
-      url: '/blog/'
-    - title: 'Nos animations'
-      submenu:
-      - url: '/about/'
-        title: 'Éveil électroacoustique'
-      - url: '/contact/'
-        title: 'Synthé & Fruit'
-      - url: '/elements/'
-        title: 'Sieste électronique'
-    - title: 'Évennements'
+      url: '/about/'
+    - title: 'Nos projets'
+      url: '/projects/'
+    - title: 'Nos dernières actions'
       url: '/blog/'
     - title: 'Contact'
       url: '/contact/'
-    - title: 'Pages'
-      submenu:
-      - url: '/about/'
-        title: 'About'
-      - url: '/contact/'
-        title: 'Contact'
-      - url: '/elements/'
-        title: 'Elements'
 
 
 #-------------------------------
@@ -57,7 +43,7 @@ social:
 hero:
   hero__title: La Cabane Sonique
   hero__description: Nous développons l'accessibilité pour tous.tes aux arts sonores. Nous organisons des ateliers créatifs tout public autours des musiques électrnoniques. Bienvenue sur notgre site internet.
-  hero__image: '/images/eveil-1.jpg'
+  hero__image: '/images/eveil0.jpg'
 
 
 #-------------------------------
@@ -77,32 +63,26 @@ projects__settings:
 
 #-------------------------------
 # Testimonials Section
-testimonial__title: Nos collaborateurs
+testimonial__title: Nos Partenaires
 testimonial__description:
 
 testimonial__items:
   - name: "Paris Habitat"
-    image: "/images/client-1.jpg"
+    image: "/images/parishabitat.png"
     designation: "Lettering Artist"
     link: "https://twitter.com/"
     content : "Keeping your eye on the ball while performing a deep dive on the start-up mentality to derive convergence on cross-platform integration"
 
   - name: "Projets19"
-    image: "/images/client-2.jpg"
+    image: "/images/projet19.jpg"
     designation: "Designer"
     link: "https://facebook.com/"
     content : "Keeping your eye on the ball while performing a deep dive on the start-up mentality to derive convergence on cross-platform integration"
 
   - name: "Le Cafézoïde"
-    image: "/images/client-3.jpg"
+    image: "/images/cafezoide.png"
     designation: "Web developer"
     link: "https://twitter.com/"
-    content : "Keeping your eye on the ball while performing a deep dive on the start-up mentality to derive convergence on cross-platform integration"
-
-  - name: "La Mairie du 19ème"
-    image: "/images/client-4.jpg"
-    designation: "Lettering Artist"
-    link: "https://facebook.com/"
     content : "Keeping your eye on the ball while performing a deep dive on the start-up mentality to derive convergence on cross-platform integration"
 
 #-------------------------------
