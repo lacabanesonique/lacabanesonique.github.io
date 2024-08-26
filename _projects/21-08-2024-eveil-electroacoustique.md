@@ -1,7 +1,7 @@
 ---
 title: Éveil Électroacoustique
 date: 2022-01-09 08:01:35 +0300
-subtitle: Ateliers (À partir de 3 ans)
+subtitle: Ateliers (À partir de 3/4 ans)
 image: '/images/eveil1.png'
 ---
 

@@ -27,7 +27,7 @@ menu__settings:
 author:
   author__name: La Cabane Sonique
   author__bio: Rejoignez-nous sur nos réseaux sociaux.
-  author__avatar: '/images/01-1.jpg'
+  author__avatar: '/images/icone-site.png'
 
 social:
 - {icon: "ion-logo-facebook", link: "https://www.facebook.com/profile.php?id=61564356902553"}
@@ -42,7 +42,7 @@ social:
 # Hero Settings
 hero:
   hero__title: La Cabane Sonique
-  hero__description: Nous développons l'accessibilité pour tous.tes aux arts sonores. Nous organisons des ateliers créatifs tout public autours des musiques électrnoniques. Bienvenue sur notgre site internet.
+  hero__description: Nous souhaitons développer l'accessibilité aux arts sonores pour toutes et tous. Nous organisons des ateliers créatifs et des concerts tout public autours des musiques électroniques. Bienvenue sur notre site internet.
   hero__image: '/images/eveil0.jpg'
 
 
@@ -52,6 +52,12 @@ mailchimp: enable # To enable the mailchimp form, use the value 'enable'. To dis
 mailchimp__identifier: frnla.us6.list-manage.com/subscribe/post?u=6314d69a3f315af7ce3fb00a0&amp;id=3038727cc3 # Add your MailChimp form identifier. For example - frnla.us6.list-manage.com/subscribe/post?u=6314d69a3f315af7ce3fb00a0&amp;id=3038727cc3
 mailchimp__input__text: Votre mail ...
 mailchimp__button__text: Restons en contact
+
+#-------------------------------
+# Blog Section
+blog__settings:
+  blog__title: Nos dernières actions
+  blog__description:
 
 
 #-------------------------------
@@ -84,12 +90,6 @@ testimonial__items:
     designation: "Web developer"
     link: "https://twitter.com/"
     content : "Keeping your eye on the ball while performing a deep dive on the start-up mentality to derive convergence on cross-platform integration"
-
-#-------------------------------
-# Blog Section
-blog__settings:
-  blog__title: Nos dernières actions
-  blog__description:
 
 
 #-------------------------------

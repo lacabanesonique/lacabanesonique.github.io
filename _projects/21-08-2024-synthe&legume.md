@@ -1,13 +1,13 @@
 ---
-title: Synthé & Légume
+title: Synthé, Fruit & Légume
 date: 2022-01-10 08:01:35 +0300
-subtitle: Ateliers (À partir de 3 ans)
+subtitle: Ateliers (À partir de 4 ans)
 image: '/images/legume1.jpg'
 ---
 
 ## Description :
 
-Plongez dans une expérience musicale et pédagogique unique avec notre atelier "Synthé et légumes". Cet atelier invite petits et grands à explorer le monde fascinant de la musique électronique en utilisant… des légumes ! Destiné aux enfants à partir de 4 ans ainsi qu’à leurs accompagnateurs, cet atelier est à la fois une introduction à l’électronique, à la musique, et une occasion de découvrir les légumes d’une manière ludique.
+Plongez dans une expérience musicale et pédagogique unique avec notre atelier "Synthé, Fruit & Légumes". Cet atelier invite petits et grands à explorer le monde fascinant de la musique électronique en utilisant… des   fruits et des légumes ! Destiné aux enfants à partir de 4 ans ainsi qu’à leurs accompagnateurs, cet atelier est à la fois une introduction à l’électronique, à la musique, et une occasion de découvrir les fruits & légumes d’une manière ludique.
 
 <div class="gallery-box">
   <div class="gallery">
@@ -20,13 +20,13 @@ Plongez dans une expérience musicale et pédagogique unique avec notre atelier 
 
 ## Déroulement de l’atelier :
 
-Ensemble, nous construirons un grand synthétiseur collectif en utilisant des légumes comme composants interactifs. L’atelier repose sur un concept simple : chaque légume peut devenir une partie d’un circuit électronique. Lorsque vous touchez un légume, vous fermez un circuit qui envoie un signal électrique vers un circuit imprimé. Ce signal est ensuite converti en données MIDI, transformant le contact en sons variés, créant ainsi une symphonie vivante et naturelle.
+Ensemble, nous construirons un grand synthétiseur collectif en utilisant des fruits & légumes comme composants interactifs. L’atelier repose sur un concept simple : chaque fruit/légume peut devenir une partie d’un circuit électronique. Lorsque vous touchez un fruit/légume, vous fermez un circuit qui envoie un signal électrique vers un circuit imprimé. Ce signal est ensuite converti en données MIDI, transformant le contact en sons variés, créant ainsi une symphonie vivante et naturelle.
 
 <div class="gallery-box">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/KwExXbUf6Xc?si=dOYrmsHeeoSMm8gd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
-Au-delà de la création musicale, l'atelier inclut également une dimension éducative autour des légumes. Les participants découvriront les différentes variétés de légumes utilisés, leurs caractéristiques, et apprendront pourquoi certains légumes sont conducteurs d’électricité. Cette approche favorise une meilleure compréhension des propriétés naturelles des aliments tout en éveillant la curiosité pour la science et la musique.
+Au-delà de la création musicale, l'atelier inclut également une dimension éducative autour des légumes. Les participants découvriront les différentes variétés de fruits & légumes utilisés, leurs caractéristiques, et apprendront pourquoi certains légumes sont conducteurs d’électricité. Cette approche favorise une meilleure compréhension des propriétés naturelles des aliments tout en éveillant la curiosité pour la science et la musique.
 
 ## Objectifs de l'atelier :
 
@@ -37,7 +37,7 @@ Au-delà de la création musicale, l'atelier inclut également une dimension éd
 
 ## Informations pratiques :
 
-* Âge recommandé : À partir de 4 ans (enfants accompagnés d’un adulte).
+* Âge recommandé : À partir de 4 ans.
 * Durée de l’atelier : 1h30.
 * Public : Enfants, familles, groupes scolaires.
 * Matériel fourni : Légumes, circuits imprimés, câbles, logiciel de conversion MIDI, enceinte.
