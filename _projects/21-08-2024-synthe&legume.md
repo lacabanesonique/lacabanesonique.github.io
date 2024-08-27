@@ -7,7 +7,7 @@ image: '/images/legume1.jpg'
 
 ## Description :
 
-Plongez dans une expérience musicale et pédagogique unique avec notre atelier "Synthé, Fruit & Légumes". Cet atelier invite petits et grands à explorer le monde fascinant de la musique électronique en utilisant… des   fruits et des légumes ! Destiné aux enfants à partir de 4 ans ainsi qu’à leurs accompagnateurs, cet atelier est à la fois une introduction à l’électronique, à la musique, et une occasion de découvrir les fruits & légumes d’une manière ludique.
+Plongez dans une expérience musicale et pédagogique unique avec notre atelier "Synthé, Fruit & Légume". Cet atelier invite petits et grands à explorer le monde fascinant de la musique électronique en utilisant… des   fruits et des légumes ! Destiné aux enfants à partir de 4 ans ainsi qu’à leurs accompagnateurs, cet atelier est à la fois une introduction à l’électronique, à la musique, et une occasion de découvrir les fruits & légumes d’une manière ludique.
 
 <div class="gallery-box">
   <div class="gallery">
