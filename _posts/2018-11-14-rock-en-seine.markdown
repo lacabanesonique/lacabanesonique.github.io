@@ -5,7 +5,7 @@ description: Le 22, 24 et 25 aout 2024 nous serons à Rock En Seine pour animer 
 date:   2024-08-22 15:01:35 +0300
 image:  '/images/rock1.png'
 video_embed: https://www.youtube.com/embed/gghgYaYeG_M
-tags:   [atelier, radio, synthé fruit & légume]
+tags:   [atelier, radio, diy, rockenseine]
 place: Rock En Seine - Espace Mini-Rock
 ---
 
