@@ -42,7 +42,7 @@ social:
 # Hero Settings
 hero:
   hero__title: La Cabane Sonique
-  hero__description: Association loi 1901 dont la mission est de développer l'accessibilité aux arts sonores pour toutes et tous. Nous organisons des ateliers créatifs et des concerts tout public autour des musiques électroniques. Bienvenue sur notre site internet.
+  hero__description: Association loi 1901 dont la mission est de développer l'accessibilité aux arts sonores pour toutes et tous, nous organisons des ateliers créatifs et des concerts tout public autour des musiques électroniques. Bienvenue sur notre site internet.
   hero__image: '/images/eveil0.jpg'
 
 
@@ -56,14 +56,14 @@ mailchimp__button__text: Restons en contact
 #-------------------------------
 # Blog Section
 blog__settings:
-  blog__title: Nos dernières actions
+  blog__title: Nos évènements
 
 
 #-------------------------------
 # Projects Settings
 projects__settings:
-  projects__title: Nos projets
-  projects__description: Voici les différentes actions que nous proposons
+  projects__title: Nos animations
+  projects__description: Voici les différentes animations que nous proposons
 
 
 #-------------------------------
