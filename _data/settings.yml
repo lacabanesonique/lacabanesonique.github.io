@@ -10,7 +10,7 @@ color_scheme: auto # You can choose three modes auto, light, and dark. By defaul
 # Navigation Settings
 menu__settings:
   menu__items:
-    - title: 'Acceuil'
+    - title: 'Accueil'
       url: '/'
     - title: 'Qui sommes nous ?'
       url: '/about/'
