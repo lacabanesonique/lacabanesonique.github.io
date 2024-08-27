@@ -5,12 +5,12 @@ permalink: /about/
 image: '/images/eveil0.jpg'
 ---
 
-La Cabane Sonique est une association créée par Thomas Lucas, développeur, compositeur et designer sonore. Le but de cette association est de favoriser l'accessibilité aux arts sonores et de rendre plus inclusif la pratique des musiques électroniques. L'association se consacre à initier un large public, des enfants aux adultes, aux pratiques innovantes de la musique électronique et à la création sonore.
+La Cabane Sonique est une association créée par Thomas Lucas, développeur, compositeur et designer sonore. Le but de cette association est de favoriser l'accessibilité aux arts sonores et de rendre plus inclusive la pratique des musiques électroniques. L'association se consacre à initier un large public, des enfants aux adultes, aux pratiques innovantes de la musique électronique et à la création sonore.
 
 L'association propose divers ateliers originaux, adaptés à différents âges et niveaux, tels que :
 
-* **Éveil électroacoustique dès 3 ans :** Initiation ludique à la musique électronique (sans écrans).
-* **Construction de synthétiseurs avec des légumes :** Apprentissage de la création sonore à partir d'objets du quotidien (sans écrans).
+* **Éveil électroacoustique dès 3 ans :** Initiation ludique à la musique électronique (sans écran).
+* **Construction de synthétiseurs avec des fruits et des légumes :** Créer de la musique électronique à l'aide de fruits et légumes.
 * **Création de podcasts :** Accompagnement pour la production de podcasts, de la conception au montage.
 * **Sieste sonore immersive :** Séances de relaxation sonore accompagnées de performances de musique électronique.
 
@@ -26,7 +26,7 @@ La Cabane Sonique est soutenue par plusieurs partenaires qui permettent d'étend
 
 * **Paris Habitat :** Partenaire principal pour les interventions dans les quartiers prioritaires, facilitant l'accès aux ateliers pour les habitants.
 * **Le Cafézoïde :** Lieu emblématique du 19e arrondissement, accueillant régulièrement les ateliers d'éveil musical pour les plus jeunes.
-* **Projet19 :** Association locale collaborant sur des initiatives culturelles et éducatives dans le 19e arrondissement.
+* **Projet19 :** Association accompagnant le développement de projets.
 
 L'association intervient aussi lors de grands événements parisiens et festivals, tels que Rock en Seine et Paris Plage, où elle propose des activités sonores accessibles à toutes et tous.
 Contact et Informations Pratiques
