@@ -15,7 +15,6 @@ Plongez dans une expérience musicale et pédagogique unique avec notre atelier 
     <img src="/images/legume6.jpg" loading="lazy" alt="Project">
     <img src="/images/legume2.jpg" loading="lazy" alt="Project">
   </div>
-  <em>Gallery / <a href="https://unsplash.com/" target="_blank">Unsplash</a></em>
 </div>
 
 ## Déroulement de l’atelier :

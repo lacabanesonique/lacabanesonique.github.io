@@ -17,7 +17,6 @@ La musique électroacoustique est un terme qui désigne les musiques crées à p
     <img src="/images/eveil2.png" loading="lazy" alt="Project">
     <img src="/images/eveil7.jpg" loading="lazy" alt="Project">
   </div>
-  <em>Gallery / <a href="https://unsplash.com/" target="_blank">Unsplash</a></em>
 </div>
 
 
