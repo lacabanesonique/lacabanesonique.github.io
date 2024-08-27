@@ -1,11 +1,12 @@
 ---
 layout: post
-title:  Rock en seine - Atelier radio et création électro-acoustique
+title:  Atelier radio et création électro-acoustique
 description: Le 22, 24 et 25 aout 2024 nous serons à Rock En Seine pour animer un atelier radio et création sonore en partenariat avec le cafézoïde.
-date:   2020-11-14 15:01:35 +0300
+date:   2024-08-22 15:01:35 +0300
 image:  '/images/rock1.png'
 video_embed: https://www.youtube.com/embed/gghgYaYeG_M
 tags:   [atelier, radio, synthé fruit & légume]
+place: Rock En Seine - Espace Mini-Rock
 ---
 
 Le 22, 24 et 25 aout 2024 nous serons à Rock En Seine pour animer un atelier radio et création électro-acoustique en partenariat avec le cafézoïde.
