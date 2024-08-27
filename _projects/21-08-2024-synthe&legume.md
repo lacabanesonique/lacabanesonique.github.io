@@ -19,13 +19,13 @@ Plongez dans une expérience musicale et pédagogique unique avec notre atelier 
 
 ## Déroulement de l’atelier :
 
-Ensemble, nous construirons un grand synthétiseur collectif en utilisant des fruits & légumes comme composants interactifs. L’atelier repose sur un concept simple : chaque fruit/légume peut devenir une partie d’un circuit électronique. Lorsque vous touchez un fruit/légume, vous fermez un circuit qui envoie un signal électrique vers un circuit imprimé. Ce signal est ensuite converti en données MIDI, transformant le contact en sons variés, créant ainsi une symphonie vivante et naturelle.
+Ensemble, nous construirons un grand synthétiseur collectif en utilisant des fruits et légumes comme composants interactifs. L’atelier repose sur un concept simple : chaque fruit ou légume peut devenir une partie d’un circuit électronique. Lorsque vous touchez un fruit ou un légume, vous fermez un circuit qui envoie un signal électrique vers un circuit imprimé. Ce signal est ensuite converti en données MIDI, transformant le contact en sons variés, créant ainsi une symphonie vivante et naturelle.
 
 <div class="gallery-box">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/KwExXbUf6Xc?si=dOYrmsHeeoSMm8gd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
-Au-delà de la création musicale, l'atelier inclut également une dimension éducative autour des légumes. Les participants découvriront les différentes variétés de fruits & légumes utilisés, leurs caractéristiques, et apprendront pourquoi certains légumes sont conducteurs d’électricité. Cette approche favorise une meilleure compréhension des propriétés naturelles des aliments tout en éveillant la curiosité pour la science et la musique.
+Au-delà de la création musicale, l'atelier inclut également une dimension éducative autour des légumes. Les participants découvriront les différentes variétés de fruits et légumes utilisés, leurs caractéristiques, et apprendront pourquoi certains légumes sont conducteurs d’électricité. Cette approche favorise une meilleure compréhension des propriétés naturelles des aliments tout en éveillant la curiosité pour la science et la musique.
 
 ## Objectifs de l'atelier :
 
