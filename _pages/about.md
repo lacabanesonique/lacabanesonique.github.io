@@ -17,7 +17,7 @@ L'association propose divers ateliers originaux, adaptés à différents âges e
 <div class="gallery-box">
   <div class="gallery">
     <img src="/images/eveil9.png" loading="lazy">
-    <img src="/images/eveil7.jpg" loading="lazy">
+    <img src="/images/legume8.jpg" loading="lazy">
     <img src="/images/eveil2.png" loading="lazy">
   </div>
 </div>
@@ -28,15 +28,15 @@ La Cabane Sonique est soutenue par plusieurs partenaires qui permettent d'étend
 * **Le Cafézoïde :** Lieu emblématique du 19e arrondissement, accueillant régulièrement les ateliers d'éveil musical pour les plus jeunes.
 * **Projet19 :** Association locale collaborant sur des initiatives culturelles et éducatives dans le 19e arrondissement.
 
-L'association intervient aussi lors de grands événements parisiens et festivals, tels que Rock en Seine et Paris Plage, où elle propose des activités sonores accessibles à tous.
+L'association intervient aussi lors de grands événements parisiens et festivals, tels que Rock en Seine et Paris Plage, où elle propose des activités sonores accessibles à toutes et tous.
 Contact et Informations Pratiques
 
-<p align="center">    
+ 
 **Adresse :** 18 avenue Mathurin Moreau, 75019 Paris
 
 **Numéro de téléphone :** 07 81 04 86 56
 
 **Mail :** lacabanesonique@gmail.com
-</center>
+
 
 La Cabane Sonique s'engage à offrir à tous les publics une exploration innovante et accessible de la musique électronique, au cœur des quartiers parisiens et lors de grands événements culturels.
