@@ -2,7 +2,7 @@
 title: Éveil Électroacoustique
 date: 2022-01-09 08:01:35 +0300
 subtitle: Atelier (À partir de 3 ans)
-image: '/images/eveil1.png'
+image: '/images/eveil1.jpg'
 ---
 
 Cet atelier/animation offre une expérience immersive et ludique où les enfants peuvent découvrir et explorer différents instruments de musique électronique (synthétiseurs, controlers MIDI, microphone relié à des effets temps réels). 
@@ -13,8 +13,8 @@ La musique électroacoustique est un terme qui désigne les musiques créées à
 
 <div class="gallery-box">
   <div class="gallery">
-    <img src="/images/eveil9.png" loading="lazy" alt="Project">
-    <img src="/images/eveil2.png" loading="lazy" alt="Project">
+    <img src="/images/eveil9a.jpg" loading="lazy" alt="Project">
+    <img src="/images/eveil2.jpg" loading="lazy" alt="Project">
     <img src="/images/eveil7.jpg" loading="lazy" alt="Project">
   </div>
 </div>
@@ -29,8 +29,8 @@ La musique électroacoustique est un terme qui désigne les musiques créées à
 
 <div class="gallery-box">
   <div class="gallery">
-    <img src="/images/eveil4.png" loading="lazy" alt="Project">
-    <img src="/images/eveil8.png" loading="lazy" alt="Project">
+    <img src="/images/eveil4.jpg" loading="lazy" alt="Project">
+    <img src="/images/eveil8.jpg" loading="lazy" alt="Project">
   </div>
 </div>
 

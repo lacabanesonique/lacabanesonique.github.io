@@ -8,10 +8,11 @@ tags:   [atelier, mini-studio, enregistrement]
 place: Cité Rouge - Paris 19ème
 ---
 
-Le 16 aout 2024 nous serons à la cité rouge dans le 19 ème arondissement avec notre mini-studio pour un éveil aux musiques électroniques.
+Le 16 aout 2024 nous étions à la cité rouge dans le 19 ème arondissement avec notre mini-studio pour un éveil aux musiques électroniques.
 
 Adresse : 20 avenue Mathurin Moreau 75019 Paris
 
 Horaire : 14h30 - 17h 
 
-L'évenement est co-organisé par Paris Habitat et le Centre Socioculturel Belleville.
+L'évenement était co-organisé par Paris Habitat et le Centre Socioculturel Belleville.
+

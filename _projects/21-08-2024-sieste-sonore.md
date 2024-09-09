@@ -1,5 +1,5 @@
 ---
-title: Sieste Sonique
+title: Sieste Électronique
 date: 2022-01-08 08:01:35 +0300
 subtitle: Concert (tout public)
 image: '/images/sieste6.jpg'
@@ -13,7 +13,7 @@ Accordez-vous une pause relaxante avec une sieste sonore immersive. Les artistes
 
 <div class="gallery-box">
   <div class="gallery">
-    <img src="/images/sieste3.png" loading="lazy" alt="Project">
+    <img src="/images/sieste3.jpg" loading="lazy" alt="Project">
     <img src="/images/sieste4.jpg" loading="lazy" alt="Project">
   </div>
 </div>

@@ -9,7 +9,7 @@ tags:   [atelier, radio, diy, rockenseine]
 place: Rock En Seine - Espace Mini-Rock
 ---
 
-Le 22, 24 et 25 aout 2024 nous serons à Rock En Seine pour animer un atelier radio et création électro-acoustique en partenariat avec le cafézoïde.
+Le 22, 24 et 25 aout 2024 nous étions à Rock En Seine pour animer un atelier radio et création électro-acoustique en partenariat avec le cafézoïde.
 
 Voici quelques photos des ces ateliers:
 

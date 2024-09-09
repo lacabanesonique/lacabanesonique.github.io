@@ -16,9 +16,9 @@ L'association propose divers ateliers originaux, adaptés à différents âges e
 
 <div class="gallery-box">
   <div class="gallery">
-    <img src="/images/eveil9.png" loading="lazy">
+    <img src="/images/eveil9a.jpg" loading="lazy">
     <img src="/images/legume8.jpg" loading="lazy">
-    <img src="/images/eveil2.png" loading="lazy">
+    <img src="/images/eveil2.jpg" loading="lazy">
   </div>
 </div>
 
