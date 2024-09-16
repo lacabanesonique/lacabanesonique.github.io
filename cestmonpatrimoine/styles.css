@@ -13,27 +13,30 @@ body {
     padding: 0;
     display: flex;
     flex-direction: column;
-    min-height: 100svh; /* Utilisation de la taille visible du viewport sans barre du navigateur */
+    min-height: 100dvh; /* Utilisation de la hauteur visible réelle du viewport */
+    overflow: hidden; /* Empêche le scrolling */
 }
 
 /* Encadré pour le titre */
 header {
     text-align: center;
-    padding: 5px;
-    border: 2px solid #0f3692;
+    padding: 10px;
+    border: 2px solid #0f3692; /* Retour à une bordure plus fine */
     margin: 10px;
+    box-sizing: border-box;
+    background: transparent; /* Fond transparent pour le titre */
 }
 
 h1 {
     margin: 0;
     color: #0f3692;
-    font-size: 8vw;
+    font-size: 8vw; /* Taille plus grande pour le titre */
 }
 
 h2 {
     margin: 5px 0;
     color: #0f3692;
-    font-size: 5vw;
+    font-size: 5vw; /* Ajustement léger pour le sous-titre */
 }
 
 /* Style des mots */
@@ -44,6 +47,7 @@ main {
     align-items: center;
     flex-direction: column;
     padding: 10px;
+    box-sizing: border-box;
 }
 
 .word {
@@ -65,28 +69,15 @@ main {
 
 /* Taille des mots */
 .word-large {
-    font-size: 16vw;
+    font-size: 18vw; /* Augmentation de la taille des mots */
 }
 
 .word-medium {
-    font-size: 14vw;
+    font-size: 16vw;
 }
 
 .word-small {
-    font-size: 12vw;
-}
-
-/* Animation pour le zoom avant/arrière */
-@keyframes zoomInOut {
-    0% {
-        transform: scale(1);
-    }
-    50% {
-        transform: scale(1.1); /* Zoom avant */
-    }
-    100% {
-        transform: scale(1); /* Retour à la taille normale */
-    }
+    font-size: 14vw;
 }
 
 /* Classe pour surligner et animer un mot */
@@ -101,13 +92,15 @@ main {
 /* Bas de page */
 footer {
     text-align: center;
-    padding: 0px;
-    background: rgba(255, 255, 255, 0.5);
+    padding: 5px;
+    background: rgba(255, 255, 255, 0.6); /* Un fond léger et transparent */
+    font-size: 4vw; /* Taille plus grande pour la lisibilité */
+    border-top: 2px solid #0f3692; /* Ligne en haut pour délimiter le footer */
 }
 
 footer p {
     color: black;
-    font-size: 115%;
+    margin: 5px 0;
 }
 
 footer a {
@@ -119,19 +112,11 @@ footer a:hover {
     text-decoration: underline;
 }
 
-/* Ligne séparatrice */
-hr {
-    border: 1px solid #0f3692;
-    width: 80%;
-    margin-bottom: 0px;
-    padding: 0px;
-}
-
 /* Responsive : Ajustements spécifiques pour les petits écrans */
 @media (max-width: 768px) {
     header {
         margin: 5px;
-        padding: 5px;
+        padding: 10px;
     }
 
     main {
@@ -139,19 +124,19 @@ hr {
     }
 
     .word {
-        margin: 15px;
+        margin: 10px;
     }
 
     h1 {
-        font-size: 12vw;
+        font-size: 10vw; /* Titre plus grand sur smartphone */
     }
 
     h2 {
-        font-size: 7vw;
+        font-size: 6vw;
     }
 
     .word-large {
-        font-size: 20vw;
+        font-size: 20vw; /* Taille des mots ajustée pour smartphone */
     }
 
     .word-medium {
