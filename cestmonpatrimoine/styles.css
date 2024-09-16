@@ -1,0 +1,161 @@
+/* Inclusion de la police ORDINAIRENORMAL.otf */
+@font-face {
+    font-family: 'ORDINAIRENORMAL';
+    src: url('font/ORDINAIRENORMAL.otf') format('opentype');
+}
+
+/* Fond avec image seule */
+body {
+    background: url('media/fond.png') no-repeat center center fixed;
+    background-size: cover; /* Assure que l'image couvre toute la surface */
+    font-family: 'ORDINAIRENORMAL', sans-serif;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+/* Encadré pour le titre */
+header {
+    text-align: center;
+    padding: 5px;
+    border: 2px solid #0f3692;
+    margin: 10px;
+}
+
+h1 {
+    margin: 0;
+    color: #0f3692;
+    font-size: 8vw; /* Augmentation de la taille du titre pour les grands écrans */
+}
+
+h2 {
+    margin: 5px 0;
+    color: #0f3692;
+    font-size: 5vw; /* Augmentation légère pour le sous-titre */
+}
+
+/* Style des mots */
+main {
+    flex: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding: 10px;
+}
+
+.word {
+    color: #0f3692;
+    cursor: pointer;
+    margin: 20px;
+    transition: font-size 0.3s ease;
+    text-align: center;
+    white-space: nowrap; /* Évite le retour à la ligne des mots */
+    user-select: none; /* Empêche la sélection de texte */
+    cursor: default; /* Utilise le curseur par défaut au lieu du curseur texte */
+    display: inline-block; /* Nécessaire pour que la transformation fonctionne correctement */
+}
+
+/* Appliquer une couleur spécifique à la première lettre de chaque mot */
+.word::first-letter {
+    color: #ff2f19;
+}
+
+/* Taille des mots */
+.word-large {
+    font-size: 16vw;
+}
+
+.word-medium {
+    font-size: 14vw;
+}
+
+.word-small {
+    font-size: 12vw;
+}
+
+/* Animation pour le zoom avant/arrière */
+@keyframes zoomInOut {
+    0% {
+        transform: scale(1);
+    }
+    50% {
+        transform: scale(1.1); /* Zoom avant */
+    }
+    100% {
+        transform: scale(1); /* Retour à la taille normale */
+    }
+}
+
+/* Classe pour surligner et animer un mot */
+.highlight {
+    background-color: rgba(255, 255, 255, 0.6); /* Couleur blanche avec opacité */
+    animation: zoomInOut 0.3s ease; /* Durée de l'animation */
+    display: inline-block; /* Nécessaire pour que la transformation fonctionne correctement */
+    padding: 0 10px; /* Ajoute un peu d'espace autour du texte pour le surlignage */
+    border-radius: 4px; /* Ajoute des coins arrondis pour un effet visuel plus agréable */
+}
+
+/* Bas de page */
+footer {
+    text-align: center;
+    padding: 10px;
+    background-color: transparent; /* Pas de couleur de fond supplémentaire */
+}
+
+footer a {
+    color: #0f3692;
+    text-decoration: none;
+}
+
+footer a:hover {
+    text-decoration: underline;
+}
+
+/* Ligne séparatrice */
+hr {
+    border: 1px solid #0f3692;
+    width: 80%;
+    margin-bottom: 10px;
+}
+
+/* Responsive : Ajustements spécifiques pour les petits écrans */
+@media (max-width: 768px) {
+    /* Réduction des marges et ajustements pour les petits écrans */
+    header {
+        margin: 5px;
+        padding: 5px;
+    }
+
+    main {
+        padding: 5px;
+    }
+
+    .word {
+        margin: 15px;
+    }
+
+    /* Augmentation de la taille du titre pour les petits écrans */
+    h1 {
+        font-size: 12vw; /* Titre beaucoup plus gros sur les smartphones */
+    }
+
+    h2 {
+        font-size: 7vw; /* Sous-titre un peu plus grand sur les smartphones */
+    }
+
+    /* Augmentation significative de la taille des mots sur smartphone */
+    .word-large {
+        font-size: 20vw;
+    }
+
+    .word-medium {
+        font-size: 18vw;
+    }
+
+    .word-small {
+        font-size: 16vw;
+    }
+}
