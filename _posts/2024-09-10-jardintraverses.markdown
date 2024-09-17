@@ -11,5 +11,5 @@ place: Jardin des traverses - Rue des Poissonniers, 75018 Paris
 Le 7 septembre nous étions au jardin des traverses pour un atelier de construtcion de synthétiseurs avec des légumes.
 
 <div class="gallery-box">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KwExXbUf6Xc?si=dOYrmsHeeoSMm8gd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NZjxJ_P3z7g?si=yMBfbyi-U4Prsu_T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
