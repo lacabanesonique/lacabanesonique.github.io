@@ -10,9 +10,9 @@ place: Cité Rouge - 97 avenue Simon Bolivar, 75019 PARIS
 
 Le 30 aout nous étions à la cité rouge située au 97 avenue Simon Bolivar, 75019 PARIS pour un éveil électronique.
 
-Cette action à été coorganisée par le centre socioculturel de Belleville et financée par Paris Habitat.
+Cette action a été coorganisée par le centre socioculturel de Belleville et financée par Paris Habitat.
 
-Voici quelques photos des cet atelier:
+Voici quelques photos de cet atelier:
 
 <div class="gallery-box">
   <div class="gallery">
