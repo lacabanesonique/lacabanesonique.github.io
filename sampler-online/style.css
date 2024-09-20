@@ -19,7 +19,7 @@ body {
 /* Style du header */
 header {
     text-align: center;
-    padding: 10px; /* Réduit le padding autour du texte */
+    padding: 5px; /* Réduit le padding autour du texte */
     background-color: #fff; /* Fond blanc pour le header */
     border-bottom: 1px solid #ccc; /* Bordure inférieure pour séparer le header du contenu */
     width: 100%;
@@ -61,7 +61,7 @@ header h2 {
     display: grid;
     grid-template-columns: repeat(3, 1fr); /* Trois colonnes égales */
     grid-template-rows: repeat(3, 1fr); /* Trois lignes égales */
-    gap: 4px; /* Espacement uniforme entre les colonnes et les lignes */
+    gap: 2px; /* Espacement uniforme entre les colonnes et les lignes */
     max-width: 100vw; /* Utiliser la largeur de l'écran */
     max-height: calc(100vh - 120px); /* Ajuster la hauteur en fonction de la hauteur du header et footer */
     overflow: hidden; /* Empêche le débordement */
@@ -131,5 +131,13 @@ footer a:hover {
 @media (max-width: 600px) {
     .wrapper {
         gap: 2px; /* Réduire l'espacement entre les images */
+    }
+
+    header, footer {
+        padding: 5px; /* Réduire le padding */
+    }
+
+    .main-container {
+        padding: 0; /* Enlever le padding pour maximiser l'espace */
     }
 }
