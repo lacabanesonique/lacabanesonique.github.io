@@ -46,10 +46,9 @@ header h2 {
     align-items: center; /* Centre horizontalement */
     justify-content: center; /* Centre verticalement */
     flex: 1; /* Permet de remplir l'espace disponible */
-    margin: 20px 0; /* Espace au-dessus et en-dessous de la grille */
-    padding: 10px; /* Ajoute un padding interne */
+    margin: 0; /* Enlever la marge pour utiliser tout l'espace */
+    padding: 5px; /* Ajuster le padding si nécessaire */
     box-sizing: border-box;
-    max-width: 100%; /* Assure que la largeur du conteneur est maximale */
 }
 
 /* Style des conteneurs d'images */
@@ -64,7 +63,8 @@ header h2 {
     grid-template-rows: repeat(3, 1fr); /* Trois lignes égales */
     gap: 4px; /* Espacement uniforme entre les colonnes et les lignes */
     max-width: 100vw; /* Utiliser la largeur de l'écran */
-    max-height: calc(100vh - 60px - 60px - 40px); /* Ajuste la hauteur en fonction de la hauteur de la fenêtre */
+    max-height: calc(100vh - 120px); /* Ajuster la hauteur en fonction de la hauteur du header et footer */
+    overflow: hidden; /* Empêche le débordement */
     box-sizing: border-box;
 }
 
@@ -102,7 +102,7 @@ img {
 /* Style du footer */
 footer {
     text-align: center;
-    padding: 15px; /* Augmente le padding pour donner plus d'espace autour du texte */
+    padding: 5px; /* Réduire le padding pour le footer */
     background-color: #fff; /* Fond blanc pour le footer */
     border-top: 1px solid #ccc; /* Bordure supérieure pour séparer le footer du contenu */
     width: 100%;
