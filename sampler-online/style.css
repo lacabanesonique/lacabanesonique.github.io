@@ -132,5 +132,6 @@ footer a:hover {
 @media (max-width: 600px) {
     .wrapper {
         gap: 2px; /* Réduire l'espacement entre les images */
+        height: auto; /* Pour les petits écrans, auto pour s'adapter */
     }
 }
