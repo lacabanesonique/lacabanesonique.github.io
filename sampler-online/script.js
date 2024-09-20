@@ -19,6 +19,13 @@ document.addEventListener('DOMContentLoaded', function() {
         return 'ontouchstart' in window || navigator.maxTouchPoints > 0 || navigator.msMaxTouchPoints > 0;
     }
 
+    function adjustHeight() {
+        const wrapper = document.querySelector('.wrapper');
+        const headerHeight = document.querySelector('header').offsetHeight;
+        const footerHeight = document.querySelector('footer').offsetHeight;
+        wrapper.style.maxHeight = `${window.innerHeight - (headerHeight + footerHeight)}px`;
+    }
+
     containers.forEach(function(container) {
         const image = container.querySelector('img');
         const audioId = image.id.replace('image-', 'audio-');
@@ -46,4 +53,8 @@ document.addEventListener('DOMContentLoaded', function() {
             image.addEventListener('mousedown', handleInteraction);
         }
     });
+
+    // Ajuster la hauteur lors du chargement et du redimensionnement de la fenêtre
+    window.addEventListener('resize', adjustHeight);
+    window.addEventListener('load', adjustHeight);
 });

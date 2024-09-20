@@ -29,13 +29,13 @@ header {
 /* Style du titre et sous-titre */
 header h1 {
     margin: 0;
-    font-size: 2.5em; /* Augmente la taille du titre */
+    font-size: 2em; /* Réduit légèrement la taille du titre */
     color: #333; /* Couleur du texte */
 }
 
 header h2 {
     margin: 5px 0 0; /* Réduit la marge au-dessus du sous-titre */
-    font-size: 1.5em; /* Augmente la taille du sous-titre */
+    font-size: 1.2em; /* Réduit légèrement la taille du sous-titre */
     color: #666; /* Couleur du texte */
 }
 
@@ -44,10 +44,10 @@ header h2 {
     display: flex;
     flex-direction: column; /* Alignement vertical */
     align-items: center; /* Centre horizontalement */
-    justify-content: center; /* Centre verticalement */
+    justify-content: flex-start; /* Centre verticalement */
     flex: 1; /* Permet de remplir l'espace disponible */
     margin: 0; /* Enlever la marge pour utiliser tout l'espace */
-    padding: 5px; /* Ajuster le padding si nécessaire */
+    padding: 0; /* Enlever le padding pour maximiser l'espace */
     box-sizing: border-box;
 }
 
@@ -63,7 +63,7 @@ header h2 {
     grid-template-rows: repeat(3, 1fr); /* Trois lignes égales */
     gap: 2px; /* Espacement uniforme entre les colonnes et les lignes */
     max-width: 100vw; /* Utiliser la largeur de l'écran */
-    max-height: calc(100vh - 120px); /* Ajuster la hauteur en fonction de la hauteur du header et footer */
+    max-height: calc(100vh - 120px); /* Ajuster en fonction de la hauteur du header et footer */
     overflow: hidden; /* Empêche le débordement */
     box-sizing: border-box;
 }
@@ -135,9 +135,5 @@ footer a:hover {
 
     header, footer {
         padding: 5px; /* Réduire le padding */
-    }
-
-    .main-container {
-        padding: 0; /* Enlever le padding pour maximiser l'espace */
     }
 }
