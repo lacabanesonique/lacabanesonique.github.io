@@ -50,6 +50,7 @@ header h2 {
     padding: 10px; /* Ajoute un padding interne */
     box-sizing: border-box;
     max-width: 100%; /* Assure que la largeur du conteneur est maximale */
+    overflow: hidden; /* Empêche le défilement */
 }
 
 /* Style des conteneurs d'images */
