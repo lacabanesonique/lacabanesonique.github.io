@@ -1,7 +1,7 @@
 /* Définition de la police locale */
 @font-face {
     font-family: 'OrdinaireNormal';
-    src: url('font/ORDINAIRENORMAL.otf') format('opentype'); /* Spécifie le format de la police */
+    src: url('font/ORDINAIRENORMAL.otf') format('opentype');
     font-weight: normal;
     font-style: normal;
 }
@@ -9,19 +9,19 @@
 /* Style global du body */
 body {
     display: flex;
-    flex-direction: column; /* Permet d'utiliser l'espace vertical */
-    min-height: 100vh; /* Assure que le body occupe au moins la hauteur de l'écran */
+    flex-direction: column;
+    min-height: 100vh;
     margin: 0;
-    background-color: #fff; /* Fond blanc pour tout le body */
-    font-family: 'OrdinaireNormal', sans-serif; /* Application de la police */
+    background-color: #fff;
+    font-family: 'OrdinaireNormal', sans-serif;
 }
 
 /* Style du header */
 header {
     text-align: center;
-    padding: 5px; /* Réduit le padding autour du texte */
-    background-color: #fff; /* Fond blanc pour le header */
-    border-bottom: 1px solid #ccc; /* Bordure inférieure pour séparer le header du contenu */
+    padding: 20px;
+    background-color: #fff;
+    border-bottom: 1px solid #ccc;
     width: 100%;
     box-sizing: border-box;
 }
@@ -29,111 +29,77 @@ header {
 /* Style du titre et sous-titre */
 header h1 {
     margin: 0;
-    font-size: 2em; /* Réduit légèrement la taille du titre */
-    color: #333; /* Couleur du texte */
+    font-size: 3em; /* Taille du titre */
+    color: #333;
 }
 
 header h2 {
-    margin: 5px 0 0; /* Réduit la marge au-dessus du sous-titre */
-    font-size: 1.2em; /* Réduit légèrement la taille du sous-titre */
-    color: #666; /* Couleur du texte */
+    margin: 5px 0 0;
+    font-size: 2em; /* Taille du sous-titre */
+    color: #666;
 }
 
 /* Conteneur principal pour centrer la grille */
 .main-container {
     display: flex;
-    flex-direction: column; /* Alignement vertical */
-    align-items: center; /* Centre horizontalement */
-    justify-content: flex-start; /* Centre verticalement */
-    flex: 1; /* Permet de remplir l'espace disponible */
-    margin: 0; /* Enlever la marge pour utiliser tout l'espace */
-    padding: 0; /* Enlever le padding pour maximiser l'espace */
+    flex-direction: column;
+    justify-content: center; /* Centre la matrice */
+    flex: 1;
+    padding: 0 10px; /* Espace latéral */
     box-sizing: border-box;
-}
-
-/* Style des conteneurs d'images */
-.container {
-    text-align: center;
 }
 
 /* Style principal de la grille */
 .wrapper {
     display: grid;
-    grid-template-columns: repeat(3, 1fr); /* Trois colonnes égales */
-    grid-template-rows: repeat(3, 1fr); /* Trois lignes égales */
-    gap: 2px; /* Espacement uniforme entre les colonnes et les lignes */
-    max-width: 100vw; /* Utiliser la largeur de l'écran */
-    max-height: calc(100vh - 120px); /* Ajuster en fonction de la hauteur du header et footer */
-    overflow: hidden; /* Empêche le débordement */
-    box-sizing: border-box;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 10px; /* Espace uniforme entre les images */
+    width: 100%; /* Utiliser toute la largeur */
+    height: auto; /* Permet à la grille de s'adapter au contenu */
+}
+
+/* Style des conteneurs d'images */
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden; /* Cacher le débordement */
 }
 
 /* Style des images */
 img {
-    width: 100%;
-    height: 100%; /* Prend toute la hauteur du conteneur */
-    object-fit: cover; /* S'assure que l'image couvre entièrement le conteneur */
+    max-width: 100%;
+    max-height: 100%;
+    object-fit: contain; /* Contenir l'image sans la couper */
     cursor: pointer;
-    border-radius: 4px; /* Coins arrondis plus petits pour un effet plus subtil */
-    transition: transform 0.2s ease-in-out; /* Transition fluide pour les effets */
-}
-
-/* Animation de pulsation */
-@keyframes pulse {
-    0% {
-        transform: scale(1);
-        box-shadow: 0 0 0 rgba(0, 0, 0, 0);
-    }
-    50% {
-        transform: scale(1.1);
-        box-shadow: 0 0 15px rgba(0, 0, 0, 0.3);
-    }
-    100% {
-        transform: scale(1);
-        box-shadow: 0 0 0 rgba(0, 0, 0, 0);
-    }
-}
-
-/* Classe d'animation pour les images */
-.animate {
-    animation: pulse 0.3s ease-in-out;
+    transition: transform 0.2s ease-in-out;
 }
 
 /* Style du footer */
 footer {
     text-align: center;
-    padding: 5px; /* Réduire le padding pour le footer */
-    background-color: #fff; /* Fond blanc pour le footer */
-    border-top: 1px solid #ccc; /* Bordure supérieure pour séparer le footer du contenu */
+    padding: 10px;
+    background-color: #fff;
+    border-top: 1px solid #ccc;
     width: 100%;
     box-sizing: border-box;
-    font-family: 'OrdinaireNormal', sans-serif; /* Application de la police au footer */
-}
-
-/* Style du texte dans le footer */
-footer p {
-    margin: 0;
-    font-size: 16px; /* Augmente la taille de la police pour le texte dans le footer */
-}
-
-footer a {
-    color: #007BFF; /* Couleur du lien */
-    text-decoration: none; /* Retirer le soulignement par défaut */
-}
-
-footer a:hover {
-    text-decoration: underline; /* Soulignement au survol */
 }
 
 /* Media Queries pour différentes tailles d'écran */
-
-/* Écrans de téléphone (portrait) */
 @media (max-width: 600px) {
-    .wrapper {
-        gap: 2px; /* Réduire l'espacement entre les images */
+    header, footer {
+        padding: 10px; /* Ajustement pour les petits écrans */
     }
 
-    header, footer {
-        padding: 5px; /* Réduire le padding */
+    header h1 {
+        font-size: 2em; /* Ajuster la taille sur mobile */
+    }
+
+    header h2 {
+        font-size: 1.5em; /* Ajuster la taille sur mobile */
+    }
+
+    .wrapper {
+        gap: 5px; /* Réduire l'espacement entre les images sur mobile */
     }
 }
