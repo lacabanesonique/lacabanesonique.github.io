@@ -105,7 +105,7 @@ footer {
     text-align: center;
     padding: 15px; /* Augmente le padding pour donner plus d'espace autour du texte */
     background-color: #fff; /* Fond blanc pour le footer */
-    border-top: 1px solid #ccc; /* Bordure supérieure pour séparer le footer du contenu */
+    border-top: 0px solid #ccc; /* Bordure supérieure pour séparer le footer du contenu */
     width: 100%;
     box-sizing: border-box;
     font-family: 'OrdinaireNormal', sans-serif; /* Application de la police au footer */
@@ -134,4 +134,19 @@ footer a:hover {
         gap: 2px; /* Réduire l'espacement entre les images */
         height: auto; /* Pour les petits écrans, auto pour s'adapter */
     }
+}
+
+.text-zone {
+    margin-top: 10px;
+    text-align: center;
+    padding: 15px; 
+    background-color: #fff; /* Fond blanc pour la zone de texte */
+    border-top: 1px solid #ccc; /* Bordure supérieure pour délimiter la zone */
+    width: 100%; /* Assure que la zone de texte occupe toute la largeur */
+    box-sizing: border-box;
+}
+
+.text-zone p {
+    margin: 0; /* Évite les marges qui peuvent causer du défilement */
+    font-size: 16px; 
 }

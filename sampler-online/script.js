@@ -22,8 +22,8 @@ document.addEventListener('DOMContentLoaded', function() {
     function adjustHeight() {
         const wrapper = document.querySelector('.wrapper');
         const headerHeight = document.querySelector('header').offsetHeight;
-        const footerHeight = document.querySelector('footer').offsetHeight;
-        wrapper.style.maxHeight = `${window.innerHeight - (headerHeight + footerHeight)}px`;
+        //fconst footerHeight = document.querySelector('footer').offsetHeight;
+        wrapper.style.maxHeight = `${window.innerHeight - (headerHeight)}px`;
     }
 
     containers.forEach(function(container) {
