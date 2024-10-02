@@ -1,0 +1,21 @@
+---
+layout: post
+title: Synthé & Légumes 28/09/24
+description: Pour fêter l'ouverture du local associatif de Chaufourniers nous avons proposé notre atelier Synthé & Légumes aux habitant.e.s du qartier.
+date:   2024-09-28 15:01:35 +0300
+image:  '/images/local1.jpg'
+tags:   [Synthé & Légumes, atelier, citerouge]
+place: Cité rouge - 20 avenue Mathruin Moreau, 75019 Paris
+---
+
+Pour fêter l'ouverture du local associatif de Chaufourniers nous étions en pied d'immeuble pour proposer notre atelier "Synthé & Légumes". 
+
+Voici quelques photos de cette action :
+
+<div class="gallery-box">
+  <div class="gallery">
+    <img src="/images/local2.jpg" loading="lazy" alt="Project">
+    <img src="/images/local3.jpg" loading="lazy" alt="Project">
+    <img src="/images/local4.jpg" loading="lazy" alt="Project">
+  </div>
+</div>

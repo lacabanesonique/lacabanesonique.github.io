@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  Éveil Électroacoustique à la cité rouge
-description: Le 30 aout nous serons au 97 avenue Simon Bolivar à Paris pour un éveil électronique.
+title: Éveil Électroacoustique 30/08/24
+description: Le 30 aout nous étions au 97 avenue Simon Bolivar à Paris pour un éveil électronique.
 date:   2024-08-30 15:01:35 +0300
 image:  '/images/cite2.jpg'
 tags:   [atelier, eveil, electronique]

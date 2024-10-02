@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  Construction d'un synthétiseur avec des légumes
-description: Le 7 septembre nous serons au jardin des traverses pour construire ensemble un synthétiseur avec des légumes.
+title: Synthé & Légumes 07/08/24
+description: Le 7 septembre nous étions au jardin des traverses pour construire ensemble un synthétiseur avec des légumes.
 date:   2024-09-07 15:01:35 +0300
 image:  '/images/jardin2.jpg'
 tags:   [atelier, synthe legume, electronique]

@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  Paris Plage - Synthé, Fruit & Légume
-description: Le 14 aout nous serons à Paris Plage pour construire ensemble un synthétiseur avec des fruits et des légumes.
+title:  Synthé & Légumes 14/08/24
+description: Le 14 aout nous étions à Paris Plage pour construire ensemble un synthétiseur avec des fruits et des légumes.
 date:   2024-08-14 15:01:35 +0300
 image:  '/images/parisplage1.jpg'
-tags:   [atelier, parisplage, diy]
+tags:   [parisplage, atelier, diy]
 place: Paris Plage - Paris 19ème
 ---
 
