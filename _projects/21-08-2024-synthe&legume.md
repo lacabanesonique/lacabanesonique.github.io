@@ -1,7 +1,7 @@
 ---
 title: Synthé, Fruit & Légume
 date: 2022-01-10 08:01:35 +0300
-subtitle: Atelier (À partir de 5 ans)
+subtitle: Atelier (À partir de 4 ans)
 image: '/images/legume1.jpg'
 ---
 
@@ -36,7 +36,7 @@ Au-delà de la création musicale, l'atelier inclut également une dimension éd
 
 ## Informations pratiques :
 
-* Âge recommandé : À partir de 5 ans.
+* Âge recommandé : À partir de 4 ans.
 * Durée de l’atelier : 1h30.
 * Public : Enfants, familles, groupes scolaires.
 * Matériel fourni : Légumes, circuits imprimés, câbles, logiciel de conversion MIDI, enceinte.
