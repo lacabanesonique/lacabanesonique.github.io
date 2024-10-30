@@ -2,7 +2,7 @@
 title: Synthé, Fruit & Légume
 date: 2022-01-10 08:01:35 +0300
 subtitle: Atelier (À partir de 4 ans)
-image: '/images/legume1.jpg'
+image: '/images/local2.jpg'
 ---
 
 ## Description :
