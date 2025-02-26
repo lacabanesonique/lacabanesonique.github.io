@@ -1,3 +1,5 @@
+theme: null
+
 #-------------------------------
 # General Site Settings
 baseurl: "" # the subpath of your site, e.g. /blog
