@@ -8,7 +8,7 @@ image: '/images/eveil1.jpg'
   <meta http-equiv="refresh" content="0; url=https://lacabanesonique.com/project/eveil-electroacoustique">
 </head>
 <body>
-  <p>Redirection en cours... Si rien ne se passe, <a href="https://lacabanesonique.com/">cliquez ici</a>.</p>
+  <p>Redirection en cours... Si rien ne se passe, <a href="https://lacabanesonique.com/project/eveil-electroacoustique">cliquez ici</a>.</p>
 </body>
 
 Cet atelier/animation offre une expérience immersive et ludique où les enfants peuvent découvrir et explorer différents instruments de musique électronique (synthétiseurs, controlers MIDI, microphone relié à des effets temps réels). 
