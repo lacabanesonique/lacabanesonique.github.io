@@ -5,6 +5,13 @@ subtitle: Atelier (public concerné par les troubles psychiques)
 image: '/images/podcast.jpeg'
 ---
 
+<head>
+  <meta http-equiv="refresh" content="0; url=https://lacabanesonique.com/project/dansmatete">
+</head>
+<body>
+  <p>Redirection en cours... Si rien ne se passe, <a href="https://lacabanesonique.com/project/dansmatete">cliquez ici</a>.</p>
+</body>
+
 ## Description :
 
 Ce projet a pour objectif d’accompagner des personnes atteintes de troubles psychiques dans la création de leur propre podcast en leur permettant de s’impliquer activement dans chacune des étapes, de l’écriture au montage. 

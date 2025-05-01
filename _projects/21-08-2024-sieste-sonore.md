@@ -5,6 +5,12 @@ subtitle: Concert (tout public)
 image: '/images/sieste6.jpg'
 ---
 
+<head>
+  <meta http-equiv="refresh" content="0; url=https://lacabanesonique.com/project/sieste-electronique">
+</head>
+<body>
+  <p>Redirection en cours... Si rien ne se passe, <a href="https://lacabanesonique.com/project/sieste-electronique">cliquez ici</a>.</p>
+</body>
 
 Accordez-vous une pause relaxante avec une sieste sonore immersive. Les artistes Juliette Sédès et Thomas Lucas vous invitent à un voyage sonore, où la musique électronique se mêle à des enregistrements captivants pour créer un univers apaisant. Confortablement allongés ou assis dans des transats, les spectateurs pourront se laisser porter par des ondes musicales enveloppantes.
 

@@ -5,6 +5,14 @@ subtitle: Atelier (À partir de 4 ans)
 image: '/images/local5.jpg'
 ---
 
+<head>
+  <meta http-equiv="refresh" content="0; url=https://lacabanesonique.com/project/synthe-legume">
+</head>
+<body>
+  <p>Redirection en cours... Si rien ne se passe, <a href="https://lacabanesonique.com/project/synthe-legume">cliquez ici</a>.</p>
+</body>
+
+
 ## Description :
 
 Plongez dans une expérience musicale et pédagogique unique avec notre atelier "Synthé, Fruit & Légume". Cet atelier invite petits et grands à explorer le monde fascinant de la musique électronique en utilisant… des   fruits et des légumes ! Destiné aux enfants à partir de 4 ans ainsi qu’à leurs accompagnateurs, cet atelier est à la fois une introduction à l’électronique, à la musique, et une occasion de découvrir les fruits & légumes d’une manière ludique.
