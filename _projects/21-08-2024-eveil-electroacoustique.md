@@ -4,6 +4,12 @@ date: 2022-01-09 08:01:35 +0300
 subtitle: Atelier (À partir de 3 ans)
 image: '/images/eveil1.jpg'
 ---
+<head>
+  <meta http-equiv="refresh" content="0; url=https://lacabanesonique.com/">
+</head>
+<body>
+  <p>Redirection en cours... Si rien ne se passe, <a href="https://lacabanesonique.com/">cliquez ici</a>.</p>
+</body>
 
 Cet atelier/animation offre une expérience immersive et ludique où les enfants peuvent découvrir et explorer différents instruments de musique électronique (synthétiseurs, controlers MIDI, microphone relié à des effets temps réels). 
 
