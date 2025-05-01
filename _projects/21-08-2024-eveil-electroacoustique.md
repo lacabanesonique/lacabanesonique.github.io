@@ -5,7 +5,7 @@ subtitle: Atelier (À partir de 3 ans)
 image: '/images/eveil1.jpg'
 ---
 <head>
-  <meta http-equiv="refresh" content="0; url=https://lacabanesonique.com/">
+  <meta http-equiv="refresh" content="0; url=https://lacabanesonique.com/project/eveil-electroacoustique">
 </head>
 <body>
   <p>Redirection en cours... Si rien ne se passe, <a href="https://lacabanesonique.com/">cliquez ici</a>.</p>
